@@ -1,0 +1,26 @@
+table {
+    width: 100%;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    width: 90%;
+}
+
+.SearchBar {
+    background-color: #EEEEEE;
+}
+
+.leftColumn {
+    background-color: #7EE5DA;
+}
+
+.middleColumn {
+    background-color: #70CCC2;
+}
+
+.rightColumn {
+    background-color: #62B3AA;
+}
